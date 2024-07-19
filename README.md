@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danyelle Steven Giraldo Jimenez</h1>
-<h3 align="center">Just an student</h3>
+<h4 align="center">Hello there! I'm a passionate junior software developer, specializing in Java Spring Boot and SQL databases. With a knack for creating efficient and scalable solutions, I thrive on bringing a positive attitude to every project. Currently, I'm dedicated to expanding my skills through continuous learning. I excel in collaborating within multidisciplinary teams, known for strong teamwork and effective communication. My goal is to grow into a seasoned developer, contributing to impactful projects in the tech world.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danyellegiraldo&label=Profile%20views&color=0e75b6&style=flat" alt="danyellegiraldo" /> </p>
 
